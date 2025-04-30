@@ -1,4 +1,4 @@
- predict car prices using machine learning:
+ # predict car prices using machine learning:
 
  The goal of this project is to develop a predictive model that 
 can accurately forecast the prices of cars based on various input parameters
